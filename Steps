@@ -1,0 +1,13 @@
+Steps
+For Angular Book App
+
+Create a module:
+
+Define the application scope: 
+
+Create a controller with a model in it: 
+
+Extend the scope of the controller to the div in the html file that you want to show the model in by adding the controller (as a directive) to the element: 
+
+Add the model from the controller somewhere in the div using interpolation: 
+
